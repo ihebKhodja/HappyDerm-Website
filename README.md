@@ -7,7 +7,7 @@ and we deployed the more performant.
   <img src='./src/assets/cap3.png' width="350" title="hover text">
 </p>
 
-<p>In this project , the image inserted by the user of a skin leasion to a django server,  in the response we get API of the predictions resulted.</p>
+<p>In this project , the image inserted by the user of a skin leasion to a django server, we get JSON response of the predictions resulted.</p>
 
 <h3>In case of a Benign lision:</h3>
 <p align="center">
